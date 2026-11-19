@@ -103,6 +103,23 @@ View Project →
 </a>
 
 </td>
+
+
+</td>
+<td width="50%" valign="top">
+  
+### 📊 Olist E-commerce Data Warehouse
+
+An academic Data Warehousing and Business Intelligence project using the Brazilian E-commerce Public Dataset by Olist. Focuses on organizing transactional data into a structured data warehouse to support analytical queries and business insights.
+
+**Technologies:** `SQL` `Data Warehousing` `Dimensional Modelling` `Business Intelligence`
+
+<a href="https://github.com/DiLiixz/olist-ecommerce-data-warehouse">
+View Project →
+</a>
+
+</td>
+
 </tr>
 </table>
 
