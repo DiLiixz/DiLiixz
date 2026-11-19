@@ -9,14 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Exploring+the+world+of+Data+Science;Building+Machine+Learning+projects;Turning+data+into+meaningful+insights" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/DiLiixz">
-    <img src="https://img.shields.io/badge/GitHub-DiLiixz-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-0891B2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Interests-AI%20%26%20ML-7C3AED?style=for-the-badge"/>
-</p>
-
 
 <p align="center">
   <a href="https://github.com/DiLiixz">
