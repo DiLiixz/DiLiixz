@@ -67,62 +67,39 @@ I enjoy the combination of mathematics, statistics and programming behind Data S
 
 ---
 
+
 ## 🚀 Featured Projects
 
 A selection of projects where I explore data, experiment with models and apply technical knowledge to practical problems.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Customer Churn & Retention Advisor
+### 🤖 1. AI Customer Churn & Retention Advisor
 
 An intelligent application that combines Machine Learning, Explainable AI and Generative AI to predict customer churn and support retention decisions.
 
-**Technologies**
+**Technologies:** `Python` `Scikit-learn` `SHAP` `Streamlit` `Gemini AI`
 
-`Python` `Scikit-learn` `SHAP` `Streamlit` `Gemini AI`
+🔗 <a href="https://github.com/DiLiixz/ai-customer-churn-retention-advisor">View Project →</a>
 
-<a href="https://github.com/DiLiixz/ai-customer-churn-retention-advisor">
-View Project →
-</a>
+---
 
-</td>
-<td width="50%" valign="top">
-
-### 🏨 Hotel Booking Cancellation Prediction
+### 🏨 2. Hotel Booking Cancellation Prediction
 
 A predictive analytics project exploring hotel booking data and applying classification models to identify potential booking cancellations.
 
-**Technologies**
+**Technologies:** `Python` `Pandas` `Scikit-learn` `Machine Learning`
 
-`Python` `Pandas` `Scikit-learn` `Machine Learning`
+🔗 <a href="https://github.com/DiLiixz/hotel-booking-cancellation-prediction">View Project →</a>
 
-<a href="https://github.com/DiLiixz/hotel-booking-cancellation-prediction">
-View Project →
-</a>
+---
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### 📊 Olist E-commerce Data Warehouse
+### 📊 3. Olist E-commerce Data Warehouse
 
 An academic Data Warehousing and Business Intelligence project using the Brazilian E-commerce Public Dataset by Olist. Focuses on organizing transactional data into a structured data warehouse to support analytical queries and business insights.
 
-**Technologies**
+**Technologies:** `SQL` `Data Warehousing` `Dimensional Modelling` `Business Intelligence`
 
-`SQL` `Data Warehousing` `Dimensional Modelling` `Business Intelligence`
+🔗 <a href="https://github.com/DiLiixz/olist-ecommerce-data-warehouse">View Project →</a>
 
-<a href="https://github.com/DiLiixz/olist-ecommerce-data-warehouse">
-View Project →
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
