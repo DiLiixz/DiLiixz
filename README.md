@@ -17,6 +17,19 @@
   <img src="https://img.shields.io/badge/Interests-AI%20%26%20ML-7C3AED?style=for-the-badge"/>
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/DiLiixz">
+    <img src="https://img.shields.io/badge/GitHub-DiLiixz-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dileepa-nipun-jayalath/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-0891B2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interests-AI%20%26%20ML-7C3AED?style=for-the-badge"/>
+</p>
+
+
 ---
 
 ### `01 / ABOUT ME`
