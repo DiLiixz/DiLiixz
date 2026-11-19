@@ -115,19 +115,15 @@ SLIIT CODE – Centre for Open and Distance Education
 
 ---
 
+
 ## 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DiLiixz&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9&icon_color=8B5CF6&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiLiixz&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DiLiixz&bg_color=0B1220&color=38BDF8&line=8B5CF6&point=FFFFFF&hide_border=true&area=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DiLiixz&bg_color=0B1220&color=38BDF8&line=38BDF8&point=8B5CF6&hide_border=true&area=false&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity"/>
 
 </div>
+
 
 ---
 
