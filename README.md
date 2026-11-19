@@ -1,136 +1,166 @@
 
-<h1 align="center">Hey, I'm Dileepa</h1>
+<div align="center">
 
-<h3 align="center">
-  Data Science Undergraduate | Machine Learning Enthusiast
-</h3>
+<h1>Hi, I'm Dileepa Nipun 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Exploring+the+world+of+Data+Science;Building+Machine+Learning+projects;Turning+data+into+meaningful+insights" />
-</p>
+<h3>Data Science Undergraduate | Machine Learning Enthusiast</h3>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Exploring+Data+Science+%26+AI;Building+Machine+Learning+Solutions;Learning+Through+Data+%26+Experimentation;Turning+Data+Into+Insights" alt="Typing introduction"/>
 
-<p align="center">
-  <a href="https://github.com/DiLiixz">
-    <img src="https://img.shields.io/badge/GitHub-DiLiixz-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dileepa-nipun-jayalath/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-0891B2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Interests-AI%20%26%20ML-7C3AED?style=for-the-badge"/>
-</p>
+<br/>
 
+<a href="https://github.com/DiLiixz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/dileepa-nipun-jayalath/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-### `01 / ABOUT ME`
+## 🧑‍💻 About Me
 
-🎓 I'm a **BSc (Hons) IT undergraduate** specializing in Data Science.
+I'm a **BSc (Hons) Information Technology undergraduate specializing in Data Science**, with an interest in discovering patterns, understanding data and building intelligent solutions.
 
-📊 Interested in discovering patterns, extracting insights and solving real-world problems using data.
+I enjoy the combination of mathematics, statistics and programming behind Data Science.
 
-🤖 Exploring Machine Learning, Deep Learning, Artificial Intelligence and NLP.
-
-💻 I enjoy working with Python, R and SQL to turn raw data into meaningful solutions.
-
-🌱 Currently improving my practical skills through university projects and independent learning.
-
----
-
-### `02 / TECH STACK`
-
-**Languages & Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github" />
-</p>
-
-**Data Science & Machine Learning**
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
-
-**Areas of Interest**
-
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-0E7490?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-6D28D9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Analytics-0369A1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data_Visualization-0891B2?style=flat-square"/>
-</p>
+- 📊 Exploring data through statistical analysis and visualization.
+- 🤖 Developing knowledge in Machine Learning and Deep Learning.
+- 🧠 Interested in Artificial Intelligence and Natural Language Processing.
+- 💻 Working with Python, R and SQL.
+- 🌱 Continuously learning through academic projects and practical experimentation.
+- 🎯 Working towards becoming a skilled Data Scientist.
 
 ---
 
-### `03 / FEATURED PROJECTS`
+## ⚡ Technical Skills
+
+### Programming & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,git,github"/>
+</p>
+
+### Data Science & Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</p>
+
+### Data Visualization & Analytics
+
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
+
+### Areas of Interest
+
+`Data Analysis` `Statistical Modelling` `Machine Learning`  
+`Deep Learning` `Natural Language Processing` `Predictive Analytics`
+
+---
+
+## 🚀 Featured Projects
+
+A selection of projects where I explore data, experiment with models and apply technical knowledge to practical problems.
 
 <table>
 <tr>
-<td width="50%">
-<h3>🤖 AI Customer Churn Advisor</h3>
-<p>
-An AI-powered application combining Machine Learning, Explainable AI and Generative AI to predict customer churn and suggest retention strategies.
-</p>
-<p>
-<code>Python</code> <code>Scikit-learn</code> <code>SHAP</code> <code>Streamlit</code>
-</p>
-<a href="https://github.com/DiLiixz/ai-customer-churn-retention-advisor">View Repository →</a>
+<td width="50%" valign="top">
+
+### 🤖 AI Customer Churn & Retention Advisor
+
+An intelligent application that combines Machine Learning, Explainable AI and Generative AI to predict customer churn and support retention decisions.
+
+**Technologies**
+
+`Python` `Scikit-learn` `SHAP` `Streamlit` `Gemini AI`
+
+<a href="https://github.com/DiLiixz/ai-customer-churn-retention-advisor">
+View Project →
+</a>
+
 </td>
-<td width="50%">
-<h3>🏨 Hotel Booking Prediction</h3>
-<p>
-A Machine Learning classification project focused on predicting hotel booking cancellations using historical booking data.
-</p>
-<p>
-<code>Python</code> <code>Pandas</code> <code>Scikit-learn</code> <code>EDA</code>
-</p>
-<a href="https://github.com/DiLiixz/hotel-booking-cancellation-prediction">View Repository →</a>
+<td width="50%" valign="top">
+
+### 🏨 Hotel Booking Cancellation Prediction
+
+A predictive analytics project exploring hotel booking data and applying classification models to identify potential booking cancellations.
+
+**Technologies**
+
+`Python` `Pandas` `Scikit-learn` `Machine Learning`
+
+<a href="https://github.com/DiLiixz/hotel-booking-cancellation-prediction">
+View Project →
+</a>
+
 </td>
 </tr>
 </table>
 
 ---
 
-### `04 / CERTIFICATIONS`
+## 🎓 Certifications
 
-🏅 **AI/ML Engineer – Stage 1**
+**AI/ML Engineer – Stage 1**
 
-SLIIT CODE
+SLIIT CODE – Centre for Open and Distance Education
 
-<a href="https://code.sliit.org/certificates/argk9wk5bd">View Certificate →</a>
-
----
-
-### `05 / CURRENTLY EXPLORING`
-
-- Improving Machine Learning and Deep Learning knowledge.
-- Strengthening statistical modelling skills.
-- Practising data analysis with Python and R.
-- Building practical Data Science projects.
+<a href="https://code.sliit.org/certificates/argk9wk5bd">
+<img src="https://img.shields.io/badge/View_Certificate-38BDF8?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
 
 ---
 
-### `06 / GITHUB ACTIVITY`
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiLiixz&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=8B5CF6&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiLiixz&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" height="165"/>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DiLiixz&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9&icon_color=8B5CF6&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiLiixz&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=C9D1D9" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DiLiixz&bg_color=0B1220&color=38BDF8&line=8B5CF6&point=FFFFFF&hide_border=true&area=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <b>Learning continuously. Building consistently. Growing with data.</b>
-</p>
+## 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=3&section=footer"/>
-</p>
+- Strengthening statistical and mathematical foundations.
+- Improving Machine Learning and Deep Learning skills.
+- Exploring practical applications of AI and NLP.
+- Building projects to develop real-world Data Science experience.
+
+---
+
+<div align="center">
+
+### Let's Connect & Grow Together!
+
+Open to learning opportunities, collaboration and connecting with people in Data Science and AI.
+
+<a href="https://www.linkedin.com/in/dileepa-nipun-jayalath/">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>Learning continuously · Experimenting with data · Building the future</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=3&section=footer" width="100%"/>
+
+</div>
