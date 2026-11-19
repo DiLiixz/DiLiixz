@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Dileepa 👋</h1>
+<h1 align="center">Hey, I'm Dileepa</h1>
 
 <h3 align="center">
   Data Science Undergraduate | Machine Learning Enthusiast
